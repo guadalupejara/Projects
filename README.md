@@ -14,3 +14,12 @@ showcase to the user the data being submitted. A connecting feature I was able t
 items such as delete, view details, approve story and disapprove story. Email services were connected in this table to intiated in the middle teir a custom automated email upon student disapproved
 story. Finally, responsibility for completing legacy code for the comment component in order to allow users to leave comments on Events. This component displayed a simple input form to the right of the component and allowed users to leave a comment as well as reply to selected comment. 
 
+![Student Profile banner, about me and education sections](images/profile1.png)
+![Student extracurricular and work experience sections](images/profile2.png)
+![Student module section](images/profile3.png)
+![comment component](images/comment.png)
+![Administrator story table](images/table.png)
+![Administrator story table, unapprove modal](images/unapprove.png)
+
+
+
