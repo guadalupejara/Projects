@@ -1,6 +1,6 @@
 # Projects
 selected and approved code snippets from recent projects
-##Resolvely
+## Resolvely
 
 Resolvely is an innovative and interactive platform designed to serve as an academic resource for high school scholars navigating the college
 admissions process. Resolvely is a minimum viable product (MVP). This repository contains SQL, .NET, and ReactJS code, with only selected, 
