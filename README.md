@@ -1,4 +1,6 @@
 # Projects
+**`Full Stack Project`**
+
 selected and approved code snippets from recent projects
 ## Resolvely
 
